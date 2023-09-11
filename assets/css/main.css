@@ -749,7 +749,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 50%;
 		}
 
 		.row > .off-4 {
@@ -819,6 +819,14 @@ input, select, textarea {
 		.row > .off-12 {
 			margin-left: 100%;
 		}
+        .row > .col-13 {
+			 width: 33.3333%;
+		 }
+        .row > .off-13 {
+	         margin-left: 33.33333%;
+         }
+
+
 
 		.row.gtr-0 {
 			margin-top: 0;
